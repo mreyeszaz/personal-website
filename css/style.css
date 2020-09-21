@@ -15,13 +15,13 @@ body {
 	/* the follow is the code to only repeat the blurred background */
 	background-repeat: no-repeat, repeat;
 
-	background-position: right, right;
+	background-position: right center, right center;
 	background-attachment: fixed;
 	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	font-family: 'Lato', sans-serif;
-	background-size: 1300px, 1300px;
+	background-size: 1600px, 1600px;
 	font-size: 140%;
 }
 h1{
