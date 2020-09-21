@@ -1,0 +1,50 @@
+/* 
+
+Project Name: Cookie Monster 
+Client: Cookie Monster
+Author: Chris Castiglione | www.twitter.com/castig | www.castig.org 
+Developed @ One Month in NYC 
+
+*/
+
+body {
+	background-image: 
+		url('../images/background-image.jpg'),
+		url('../images/background-image-blurred.jpg'); 
+	
+	/* the follow is the code to only repeat the blurred background */
+	background-repeat: no-repeat, repeat;
+
+	background-position: center, center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	font-family: 'Lato', sans-serif;
+	background-size: 1500px, 1500px;
+	font-size: 140%;
+}
+h1{
+	font-size: 69px;
+	color: #0e3b85;
+}
+#container{
+	background: #69a4c9;
+	width: 520px;
+	color: white;	
+	padding: 100px;
+	height: cover;
+}
+h2{
+	font-size: 35px;
+}
+h3{
+	font-size: 25px;
+}
+h4{
+	font-size: 28px;
+}
+a{
+	color: #0e3b85;
+	text-decoration: none;
+}
