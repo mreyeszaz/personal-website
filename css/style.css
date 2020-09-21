@@ -21,7 +21,7 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	font-family: 'Lato', sans-serif;
-	background-size: 1500px, 1500px;
+	background-size: 1300px, 1300px;
 	font-size: 140%;
 }
 h1{
@@ -30,7 +30,7 @@ h1{
 }
 #container{
 	background: #69a4c9;
-	width: 520px;
+	width: 650px;
 	color: white;	
 	padding: 100px;
 	height: cover;
