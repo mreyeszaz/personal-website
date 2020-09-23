@@ -27,6 +27,8 @@ body {
 h1{
 	font-size: 76px;
 	color: #0e3b85;
+	text-align: center;
+	
 }
 #container{
 	background: #69a4c9;
@@ -37,6 +39,10 @@ h1{
 }
 h2{
 	font-size: 35px;
+	background: #0e3b85;
+	padding: 5px;
+	border-radius: 5px;
+	text-align: center;
 }
 h3{
 	font-size: 25px;
