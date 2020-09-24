@@ -9,7 +9,7 @@ Developed @ One Month in NYC
 
 body {
 	background-image: 
-		url('../images/background-image.jpg'),
+		url('../images/background-image-teal.png'),
 		url('../images/background-image-blurred.jpg'); 
 	
 	/* the follow is the code to only repeat the blurred background */
@@ -21,7 +21,7 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	font-family: 'Lato', sans-serif;
-	background-size: 1600px, 1600px;
+	background-size: cover;
 	font-size: 140%;
 }
 h1{
